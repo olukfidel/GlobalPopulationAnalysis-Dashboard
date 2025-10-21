@@ -6,8 +6,7 @@ The primary goal is to demonstrate end-to-end data project skills: from data cle
 
 \## 📸 Project Showcase
 <img width="1843" height="747" alt="Country Comparison" src="https://github.com/user-attachments/assets/08e6847b-55b7-4b3b-96c3-b4193102e604" />
-<img width="1920" height="1008" alt="Country Specific Analysis" src="https://github.com/user-attachments/assets/e0e39807-cff3-4e82-86c9-4c6fb881d547" />
-<img width="1796" height="687" alt="Data Rankings" src="https://github.com/user-attachments/assets/baffd9b1-40c7-472a-b5fd-173a2fb99585" />
+<img width="1796" height="687" alt="Data Rankings" src="https://github.com/user-attachments/assets/a49f8ec1-e882-49bd-b158-0ac3169445c9" />
 <img width="1818" height="715" alt="Global Map" src="https://github.com/user-attachments/assets/574a3cec-0f36-4449-bac0-51ba937fa599" />
 <img width="959" height="412" alt="Global Overview" src="https://github.com/user-attachments/assets/54c53f84-f7e8-4651-b68f-c2886636022c" />
 <img width="1801" height="621" alt="PopvsDensity" src="https://github.com/user-attachments/assets/59d0626c-0493-4841-9b12-5816f6c7fe82" />
